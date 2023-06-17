@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankgupta0119&label=Profile%20views&color=0e75b6&style=flat" alt="mayankgupta0119" /> </p>
 
-- 🔭Currently studying Computer Science and Engineering from **Vellore Institute of Technology,Chennai,Tamil Nadu,India (2nd Year)**
+- 🔭Currently studying Computer Science and Engineering from **Vellore Institute of Technology,Chennai,Tamil Nadu,India (3rd Year)**
 
 - 🌱 I’m currently learning **JavaScript, JQuery, Networks**
 
