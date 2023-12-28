@@ -7,8 +7,6 @@
 
 - 🔭Currently studying Computer Science and Engineering from **Vellore Institute of Technology,Chennai,Tamil Nadu,India (3rd Year)**
 
-- 🌱 I’m currently learning **JavaScript, JQuery, Networks**
-
 - 📫 How to reach me **mayankgupta0119@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
